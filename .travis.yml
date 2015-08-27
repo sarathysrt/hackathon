@@ -59,6 +59,6 @@ deploy:
   organization: sarathysrt_org
   space: development
   app: my-app
-  repo: ASTRO-HACKATHON/hackathon
+  repo: sarathysrt/hackathon
   skip_cleanup: true
 
